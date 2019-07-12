@@ -1,0 +1,3843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<time-entries>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T18:22:05Z</end-time>
+    <created-at type="datetime">2014-07-31T18:17:22Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-31T22:22:05Z</updated-at>
+    <tags></tags>
+    <id type="integer">25714860</id>
+    <duration-in-seconds type="integer">14905</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T14:13:39Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T14:13:39Z</end-time>
+    <created-at type="datetime">2014-07-31T16:57:22Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-31T18:17:22Z</updated-at>
+    <tags></tags>
+    <id type="integer">25713825</id>
+    <duration-in-seconds type="integer">4838</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T12:53:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T12:53:00Z</end-time>
+    <created-at type="datetime">2014-07-31T16:27:38Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-31T16:57:22Z</updated-at>
+    <tags></tags>
+    <id type="integer">25713441</id>
+    <duration-in-seconds type="integer">1832</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T12:22:28Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T12:22:17Z</end-time>
+    <created-at type="datetime">2014-07-31T15:49:56Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-31T16:22:17Z</updated-at>
+    <tags></tags>
+    <id type="integer">25712895</id>
+    <duration-in-seconds type="integer">2033</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Lunch</name>
+      <created-at type="datetime">2014-07-16T16:24:00Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:32Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401767</id>
+      <reporters>
+      </reporters>
+      <hours type="float">933.99</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T11:48:23Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T11:48:00Z</end-time>
+    <created-at type="datetime">2014-07-31T15:49:17Z</created-at>
+    <comments>PIV Card. Rescheduled. </comments>
+    <updated-at type="datetime">2014-07-31T15:49:17Z</updated-at>
+    <tags></tags>
+    <id type="integer">25712884</id>
+    <duration-in-seconds type="integer">1380</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T11:25:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T11:48:23Z</end-time>
+    <created-at type="datetime">2014-07-31T15:14:56Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-31T15:49:56Z</updated-at>
+    <tags></tags>
+    <id type="integer">25712368</id>
+    <duration-in-seconds type="integer">2078</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T11:13:45Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T11:13:44Z</end-time>
+    <created-at type="datetime">2014-07-31T14:42:02Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-31T15:14:55Z</updated-at>
+    <tags></tags>
+    <id type="integer">25711779</id>
+    <duration-in-seconds type="integer">1984</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T10:40:40Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T10:40:40Z</end-time>
+    <created-at type="datetime">2014-07-31T14:37:02Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-31T14:42:02Z</updated-at>
+    <tags></tags>
+    <id type="integer">25711717</id>
+    <duration-in-seconds type="integer">511</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T10:32:08Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T10:32:08Z</end-time>
+    <created-at type="datetime">2014-07-31T14:12:02Z</created-at>
+    <comments>Restroom, water</comments>
+    <updated-at type="datetime">2014-07-31T14:40:58Z</updated-at>
+    <tags></tags>
+    <id type="integer">25711258</id>
+    <duration-in-seconds type="integer">1364</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T10:09:23Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-31T10:09:23Z</end-time>
+    <created-at type="datetime">2014-07-31T13:07:03Z</created-at>
+    <comments>Finished commodity 1, section 5. Required: spell check, dry run, clean up.</comments>
+    <updated-at type="datetime">2014-07-31T14:43:01Z</updated-at>
+    <tags></tags>
+    <id type="integer">25710155</id>
+    <duration-in-seconds type="integer">4041</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-31T09:02:02Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-30T18:02:28Z</end-time>
+    <created-at type="datetime">2014-07-30T18:38:57Z</created-at>
+    <comments>Included reading chapter 17, reading follow up articles and research topics pertaining to CPI data collection. Not all dedicated, necessarily, to Chapter 17, however, it did remain the topic for which all other literature were meant to supplement the understanding of. </comments>
+    <updated-at type="datetime">2014-07-30T22:04:17Z</updated-at>
+    <tags></tags>
+    <id type="integer">25701238</id>
+    <duration-in-seconds type="integer">12479</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-16T16:18:21Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:24Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:24Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401756</id>
+      <reporters>
+      </reporters>
+      <hours type="float">13.98</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-30T14:34:29Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-30T14:34:29Z</end-time>
+    <created-at type="datetime">2014-07-30T18:33:57Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-30T18:38:57Z</updated-at>
+    <tags></tags>
+    <id type="integer">25701169</id>
+    <duration-in-seconds type="integer">188</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-30T14:31:20Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-30T14:31:20Z</end-time>
+    <created-at type="datetime">2014-07-30T18:03:57Z</created-at>
+    <comments>Meeting with Lauren about EWPS. </comments>
+    <updated-at type="datetime">2014-07-30T22:05:31Z</updated-at>
+    <tags></tags>
+    <id type="integer">25700790</id>
+    <duration-in-seconds type="integer">1871</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-30T14:00:09Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-30T14:00:09Z</end-time>
+    <created-at type="datetime">2014-07-30T17:18:57Z</created-at>
+    <comments>WebTA and Census documents. </comments>
+    <updated-at type="datetime">2014-07-30T22:04:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25700209</id>
+    <duration-in-seconds type="integer">2509</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-30T13:18:19Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-30T13:18:19Z</end-time>
+    <created-at type="datetime">2014-07-30T16:23:56Z</created-at>
+    <comments>On schedule to finish usability by COB Friday. </comments>
+    <updated-at type="datetime">2014-07-30T22:05:54Z</updated-at>
+    <tags></tags>
+    <id type="integer">25699523</id>
+    <duration-in-seconds type="integer">3455</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-30T12:20:44Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-30T12:20:44Z</end-time>
+    <created-at type="datetime">2014-07-30T15:53:57Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-30T16:23:56Z</updated-at>
+    <tags></tags>
+    <id type="integer">25699046</id>
+    <duration-in-seconds type="integer">1881</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-30T11:49:22Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-30T11:49:22Z</end-time>
+    <created-at type="datetime">2014-07-30T15:18:56Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-30T15:53:58Z</updated-at>
+    <tags></tags>
+    <id type="integer">25698515</id>
+    <duration-in-seconds type="integer">2074</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-30T11:14:48Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-30T11:14:47Z</end-time>
+    <created-at type="datetime">2014-07-30T13:53:56Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-30T15:18:56Z</updated-at>
+    <tags></tags>
+    <id type="integer">25697230</id>
+    <duration-in-seconds type="integer">4878</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-30T09:53:28Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-30T09:53:28Z</end-time>
+    <created-at type="datetime">2014-07-30T12:43:56Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-30T13:53:56Z</updated-at>
+    <tags></tags>
+    <id type="integer">25696263</id>
+    <duration-in-seconds type="integer">4466</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-30T08:39:02Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T18:04:02Z</end-time>
+    <created-at type="datetime">2014-07-29T19:28:42Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-29T22:04:02Z</updated-at>
+    <tags></tags>
+    <id type="integer">25688367</id>
+    <duration-in-seconds type="integer">9502</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Data Monitor</name>
+      <created-at type="datetime">2014-07-18T19:34:07Z</created-at>
+      <completed-on type="datetime">2016-04-05T10:09:08Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:39:58Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2403489</id>
+      <reporters>
+      </reporters>
+      <hours type="float">98.38</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T15:25:39Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T15:25:39Z</end-time>
+    <created-at type="datetime">2014-07-29T17:58:42Z</created-at>
+    <comments>Meeting for Disease Index</comments>
+    <updated-at type="datetime">2014-07-29T21:21:18Z</updated-at>
+    <tags></tags>
+    <id type="integer">25687261</id>
+    <duration-in-seconds type="integer">5302</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T13:57:16Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T13:57:16Z</end-time>
+    <created-at type="datetime">2014-07-29T17:38:42Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-29T17:58:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25686987</id>
+    <duration-in-seconds type="integer">1397</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T13:33:59Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T13:33:59Z</end-time>
+    <created-at type="datetime">2014-07-29T15:58:42Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-29T17:38:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25685620</id>
+    <duration-in-seconds type="integer">5966</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Lunch</name>
+      <created-at type="datetime">2014-07-16T16:24:00Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:32Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401767</id>
+      <reporters>
+      </reporters>
+      <hours type="float">933.99</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T11:54:33Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T11:54:33Z</end-time>
+    <created-at type="datetime">2014-07-29T15:53:42Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-29T15:58:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25685541</id>
+    <duration-in-seconds type="integer">93</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T11:53:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T11:53:00Z</end-time>
+    <created-at type="datetime">2014-07-29T15:18:42Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-29T15:53:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25684959</id>
+    <duration-in-seconds type="integer">2124</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Data Monitor</name>
+      <created-at type="datetime">2014-07-18T19:34:07Z</created-at>
+      <completed-on type="datetime">2016-04-05T10:09:08Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:39:58Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2403489</id>
+      <reporters>
+      </reporters>
+      <hours type="float">98.38</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T11:17:35Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T11:17:35Z</end-time>
+    <created-at type="datetime">2014-07-29T15:03:42Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-29T15:18:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25684685</id>
+    <duration-in-seconds type="integer">866</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T11:03:08Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T11:00:00Z</end-time>
+    <created-at type="datetime">2014-07-29T15:03:37Z</created-at>
+    <comments>Meeting with Anya. </comments>
+    <updated-at type="datetime">2014-07-29T15:03:37Z</updated-at>
+    <tags></tags>
+    <id type="integer">25684683</id>
+    <duration-in-seconds type="integer">1800</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T10:30:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T11:03:07Z</end-time>
+    <created-at type="datetime">2014-07-29T13:58:42Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-29T15:03:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25683558</id>
+    <duration-in-seconds type="integer">4100</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Data Monitor</name>
+      <created-at type="datetime">2014-07-18T19:34:07Z</created-at>
+      <completed-on type="datetime">2016-04-05T10:09:08Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:39:58Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2403489</id>
+      <reporters>
+      </reporters>
+      <hours type="float">98.38</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T09:54:47Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-29T09:54:47Z</end-time>
+    <created-at type="datetime">2014-07-29T13:38:42Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-29T13:58:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25683250</id>
+    <duration-in-seconds type="integer">1265</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-29T09:33:42Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T17:46:52Z</end-time>
+    <created-at type="datetime">2014-07-28T21:26:27Z</created-at>
+    <comments>Finding lunch place. </comments>
+    <updated-at type="datetime">2014-07-28T21:48:44Z</updated-at>
+    <tags></tags>
+    <id type="integer">25675476</id>
+    <duration-in-seconds type="integer">1451</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T17:22:41Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T17:22:41Z</end-time>
+    <created-at type="datetime">2014-07-28T18:16:27Z</created-at>
+    <comments>Learned and applied Eriks macros.</comments>
+    <updated-at type="datetime">2014-07-28T21:48:59Z</updated-at>
+    <tags></tags>
+    <id type="integer">25673108</id>
+    <duration-in-seconds type="integer">11241</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Data Monitor</name>
+      <created-at type="datetime">2014-07-18T19:34:07Z</created-at>
+      <completed-on type="datetime">2016-04-05T10:09:08Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:39:58Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2403489</id>
+      <reporters>
+      </reporters>
+      <hours type="float">98.38</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T14:15:19Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T14:15:19Z</end-time>
+    <created-at type="datetime">2014-07-28T18:06:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-28T18:16:26Z</updated-at>
+    <tags></tags>
+    <id type="integer">25672970</id>
+    <duration-in-seconds type="integer">581</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T14:05:38Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T14:05:38Z</end-time>
+    <created-at type="datetime">2014-07-28T17:06:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-28T18:06:26Z</updated-at>
+    <tags></tags>
+    <id type="integer">25672170</id>
+    <duration-in-seconds type="integer">3735</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Data Monitor</name>
+      <created-at type="datetime">2014-07-18T19:34:07Z</created-at>
+      <completed-on type="datetime">2016-04-05T10:09:08Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:39:58Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2403489</id>
+      <reporters>
+      </reporters>
+      <hours type="float">98.38</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T13:03:23Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T13:03:23Z</end-time>
+    <created-at type="datetime">2014-07-28T16:26:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-28T17:06:26Z</updated-at>
+    <tags></tags>
+    <id type="integer">25671627</id>
+    <duration-in-seconds type="integer">2273</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Lunch</name>
+      <created-at type="datetime">2014-07-16T16:24:00Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:32Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401767</id>
+      <reporters>
+      </reporters>
+      <hours type="float">933.99</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T12:25:30Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T12:25:30Z</end-time>
+    <created-at type="datetime">2014-07-28T16:01:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-28T16:26:26Z</updated-at>
+    <tags></tags>
+    <id type="integer">25671220</id>
+    <duration-in-seconds type="integer">1468</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>EWPS - Gas Factors</name>
+      <created-at type="datetime">2014-07-23T16:54:06Z</created-at>
+      <completed-on type="datetime">2014-08-28T08:02:31Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:43:12Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2406049</id>
+      <reporters>
+      </reporters>
+      <hours type="float">11.72</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T12:01:01Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T12:01:01Z</end-time>
+    <created-at type="datetime">2014-07-28T15:41:27Z</created-at>
+    <comments>Credit report and credit score. Student loan issues. </comments>
+    <updated-at type="datetime">2014-07-28T21:49:54Z</updated-at>
+    <tags></tags>
+    <id type="integer">25670897</id>
+    <duration-in-seconds type="integer">1455</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T11:36:46Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T11:36:46Z</end-time>
+    <created-at type="datetime">2014-07-28T15:31:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-28T15:41:26Z</updated-at>
+    <tags></tags>
+    <id type="integer">25670699</id>
+    <duration-in-seconds type="integer">374</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>EWPS - Gas Factors</name>
+      <created-at type="datetime">2014-07-23T16:54:06Z</created-at>
+      <completed-on type="datetime">2014-08-28T08:02:31Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:43:12Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2406049</id>
+      <reporters>
+      </reporters>
+      <hours type="float">11.72</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T11:30:31Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T11:30:31Z</end-time>
+    <created-at type="datetime">2014-07-28T14:46:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-28T15:31:27Z</updated-at>
+    <tags></tags>
+    <id type="integer">25669924</id>
+    <duration-in-seconds type="integer">2904</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T10:42:06Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-28T10:42:06Z</end-time>
+    <created-at type="datetime">2014-07-28T14:31:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-28T21:48:34Z</updated-at>
+    <tags></tags>
+    <id type="integer">25669649</id>
+    <duration-in-seconds type="integer">7026</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>EWPS - Gas Factors</name>
+      <created-at type="datetime">2014-07-23T16:54:06Z</created-at>
+      <completed-on type="datetime">2014-08-28T08:02:31Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:43:12Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2406049</id>
+      <reporters>
+      </reporters>
+      <hours type="float">11.72</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-28T08:45:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-25T17:50:42Z</end-time>
+    <created-at type="datetime">2014-07-25T18:17:08Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-25T21:50:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25656851</id>
+    <duration-in-seconds type="integer">13041</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Data Monitor</name>
+      <created-at type="datetime">2014-07-18T19:34:07Z</created-at>
+      <completed-on type="datetime">2016-04-05T10:09:08Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:39:58Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2403489</id>
+      <reporters>
+      </reporters>
+      <hours type="float">98.38</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-25T14:13:20Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-25T14:13:20Z</end-time>
+    <created-at type="datetime">2014-07-25T17:57:08Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-25T18:17:08Z</updated-at>
+    <tags></tags>
+    <id type="integer">25656645</id>
+    <duration-in-seconds type="integer">1079</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-25T13:55:20Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-25T13:55:20Z</end-time>
+    <created-at type="datetime">2014-07-25T14:57:08Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-25T17:57:08Z</updated-at>
+    <tags></tags>
+    <id type="integer">25654455</id>
+    <duration-in-seconds type="integer">10993</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Data Monitor</name>
+      <created-at type="datetime">2014-07-18T19:34:07Z</created-at>
+      <completed-on type="datetime">2016-04-05T10:09:08Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:39:58Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2403489</id>
+      <reporters>
+      </reporters>
+      <hours type="float">98.38</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-25T10:52:07Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-24T17:34:52Z</end-time>
+    <created-at type="datetime">2014-07-24T19:19:21Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-24T21:34:52Z</updated-at>
+    <tags></tags>
+    <id type="integer">25645079</id>
+    <duration-in-seconds type="integer">8282</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>EWPS - Gas Factors</name>
+      <created-at type="datetime">2014-07-23T16:54:06Z</created-at>
+      <completed-on type="datetime">2014-08-28T08:02:31Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:43:12Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2406049</id>
+      <reporters>
+      </reporters>
+      <hours type="float">11.72</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-24T15:16:49Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-24T15:16:49Z</end-time>
+    <created-at type="datetime">2014-07-24T18:29:21Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-24T19:19:21Z</updated-at>
+    <tags></tags>
+    <id type="integer">25644454</id>
+    <duration-in-seconds type="integer">2951</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Data Monitor</name>
+      <created-at type="datetime">2014-07-18T19:34:07Z</created-at>
+      <completed-on type="datetime">2016-04-05T10:09:08Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:39:58Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2403489</id>
+      <reporters>
+      </reporters>
+      <hours type="float">98.38</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-24T14:27:38Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-24T14:27:38Z</end-time>
+    <created-at type="datetime">2014-07-24T16:59:21Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-24T18:29:21Z</updated-at>
+    <tags></tags>
+    <id type="integer">25643281</id>
+    <duration-in-seconds type="integer">5470</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-17T19:59:04Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:25Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:19Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2402688</id>
+      <reporters>
+      </reporters>
+      <hours type="float">36.89</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-24T12:56:28Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-24T12:56:28Z</end-time>
+    <created-at type="datetime">2014-07-24T16:29:31Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-24T16:59:21Z</updated-at>
+    <tags></tags>
+    <id type="integer">25642904</id>
+    <duration-in-seconds type="integer">1927</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Lunch</name>
+      <created-at type="datetime">2014-07-16T16:24:00Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:32Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401767</id>
+      <reporters>
+      </reporters>
+      <hours type="float">933.99</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-24T12:24:21Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-24T12:13:00Z</end-time>
+    <created-at type="datetime">2014-07-24T16:24:13Z</created-at>
+    <comments>Flag variable design. </comments>
+    <updated-at type="datetime">2014-07-24T16:24:13Z</updated-at>
+    <tags></tags>
+    <id type="integer">25642832</id>
+    <duration-in-seconds type="integer">3480</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Requirements to Census</name>
+      <created-at type="datetime">2014-07-24T16:24:12Z</created-at>
+      <completed-on type="datetime">2014-07-28T12:55:16Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:47:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2406838</id>
+      <reporters>
+      </reporters>
+      <hours type="float">0.97</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-24T11:15:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-24T11:15:00Z</end-time>
+    <created-at type="datetime">2014-07-24T16:23:37Z</created-at>
+    <comments>SAS attempt. Meeting scheduled for 3pm. </comments>
+    <updated-at type="datetime">2014-07-24T16:23:37Z</updated-at>
+    <tags></tags>
+    <id type="integer">25642821</id>
+    <duration-in-seconds type="integer">9000</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>EWPS - Gas Factors</name>
+      <created-at type="datetime">2014-07-23T16:54:06Z</created-at>
+      <completed-on type="datetime">2014-08-28T08:02:31Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:43:12Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2406049</id>
+      <reporters>
+      </reporters>
+      <hours type="float">11.72</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-24T08:45:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-23T17:35:28Z</end-time>
+    <created-at type="datetime">2014-07-23T20:17:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-23T21:35:28Z</updated-at>
+    <tags></tags>
+    <id type="integer">25632251</id>
+    <duration-in-seconds type="integer">4894</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>EWPS - Gas Factors</name>
+      <created-at type="datetime">2014-07-23T16:54:06Z</created-at>
+      <completed-on type="datetime">2014-08-28T08:02:31Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:43:12Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2406049</id>
+      <reporters>
+      </reporters>
+      <hours type="float">11.72</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-23T16:13:53Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-23T16:13:53Z</end-time>
+    <created-at type="datetime">2014-07-23T20:07:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-23T20:17:09Z</updated-at>
+    <tags></tags>
+    <id type="integer">25632115</id>
+    <duration-in-seconds type="integer">713</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-23T16:01:59Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-23T16:01:59Z</end-time>
+    <created-at type="datetime">2014-07-23T18:47:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-23T20:02:09Z</updated-at>
+    <tags></tags>
+    <id type="integer">25631086</id>
+    <duration-in-seconds type="integer">4653</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>EWPS - Gas Factors</name>
+      <created-at type="datetime">2014-07-23T16:54:06Z</created-at>
+      <completed-on type="datetime">2014-08-28T08:02:31Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:43:12Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2406049</id>
+      <reporters>
+      </reporters>
+      <hours type="float">11.72</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-23T14:44:26Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-23T14:44:26Z</end-time>
+    <created-at type="datetime">2014-07-23T18:32:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-23T18:47:09Z</updated-at>
+    <tags></tags>
+    <id type="integer">25630873</id>
+    <duration-in-seconds type="integer">1000</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-23T14:27:45Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-23T14:27:45Z</end-time>
+    <created-at type="datetime">2014-07-23T16:57:09Z</created-at>
+    <comments>Includes preliminary attempt. Meeting with Gab and post assigned work. </comments>
+    <updated-at type="datetime">2014-07-23T18:45:00Z</updated-at>
+    <tags></tags>
+    <id type="integer">25629645</id>
+    <duration-in-seconds type="integer">5615</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>EWPS - Gas Factors</name>
+      <created-at type="datetime">2014-07-23T16:54:06Z</created-at>
+      <completed-on type="datetime">2014-08-28T08:02:31Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:43:12Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2406049</id>
+      <reporters>
+      </reporters>
+      <hours type="float">11.72</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-23T12:54:09Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-23T12:54:09Z</end-time>
+    <created-at type="datetime">2014-07-23T16:52:09Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-23T16:57:09Z</updated-at>
+    <tags></tags>
+    <id type="integer">25629580</id>
+    <duration-in-seconds type="integer">422</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-23T12:47:07Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-23T12:47:07Z</end-time>
+    <created-at type="datetime">2014-07-23T13:52:09Z</created-at>
+    <comments>Fifty percent complete of final prototype. </comments>
+    <updated-at type="datetime">2014-07-23T18:45:50Z</updated-at>
+    <tags></tags>
+    <id type="integer">25626741</id>
+    <duration-in-seconds type="integer">10798</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-23T09:47:09Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-23T08:55:00Z</end-time>
+    <created-at type="datetime">2014-07-23T12:50:51Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-23T13:47:29Z</updated-at>
+    <tags></tags>
+    <id type="integer">25625862</id>
+    <duration-in-seconds type="integer">550</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-23T08:45:50Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T17:25:00Z</end-time>
+    <created-at type="datetime">2014-07-22T20:57:00Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-23T12:44:30Z</updated-at>
+    <tags></tags>
+    <id type="integer">25618582</id>
+    <duration-in-seconds type="integer">1981</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T16:51:59Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T16:51:00Z</end-time>
+    <created-at type="datetime">2014-07-22T20:51:56Z</created-at>
+    <comments>PMP overview and expectations. Meeting with Anya. </comments>
+    <updated-at type="datetime">2014-07-22T20:51:56Z</updated-at>
+    <tags></tags>
+    <id type="integer">25618507</id>
+    <duration-in-seconds type="integer">45960</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T04:05:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T16:05:17Z</end-time>
+    <created-at type="datetime">2014-07-22T19:16:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-22T20:51:31Z</updated-at>
+    <tags></tags>
+    <id type="integer">25617291</id>
+    <duration-in-seconds type="integer">3115</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T15:13:22Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T15:13:22Z</end-time>
+    <created-at type="datetime">2014-07-22T17:51:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-22T19:16:10Z</updated-at>
+    <tags></tags>
+    <id type="integer">25616197</id>
+    <duration-in-seconds type="integer">5221</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-17T19:59:04Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:25Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:19Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2402688</id>
+      <reporters>
+      </reporters>
+      <hours type="float">36.89</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T13:46:21Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T13:46:21Z</end-time>
+    <created-at type="datetime">2014-07-22T17:21:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-22T17:51:10Z</updated-at>
+    <tags></tags>
+    <id type="integer">25615800</id>
+    <duration-in-seconds type="integer">1697</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T13:18:03Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T13:18:03Z</end-time>
+    <created-at type="datetime">2014-07-22T16:41:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-22T17:21:10Z</updated-at>
+    <tags></tags>
+    <id type="integer">25615274</id>
+    <duration-in-seconds type="integer">2315</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-17T19:59:04Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:25Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:19Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2402688</id>
+      <reporters>
+      </reporters>
+      <hours type="float">36.89</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T12:39:27Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T12:39:27Z</end-time>
+    <created-at type="datetime">2014-07-22T16:21:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-22T16:41:10Z</updated-at>
+    <tags></tags>
+    <id type="integer">25615021</id>
+    <duration-in-seconds type="integer">1353</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Lunch</name>
+      <created-at type="datetime">2014-07-16T16:24:00Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:32Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401767</id>
+      <reporters>
+      </reporters>
+      <hours type="float">933.99</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T12:16:54Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T12:16:54Z</end-time>
+    <created-at type="datetime">2014-07-22T14:26:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-22T16:21:10Z</updated-at>
+    <tags></tags>
+    <id type="integer">25613147</id>
+    <duration-in-seconds type="integer">6705</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T10:25:09Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T10:25:09Z</end-time>
+    <created-at type="datetime">2014-07-22T13:56:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-22T14:26:10Z</updated-at>
+    <tags></tags>
+    <id type="integer">25612646</id>
+    <duration-in-seconds type="integer">1843</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T09:54:25Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T09:54:00Z</end-time>
+    <created-at type="datetime">2014-07-22T13:54:21Z</created-at>
+    <comments>Free food. </comments>
+    <updated-at type="datetime">2014-07-22T13:54:21Z</updated-at>
+    <tags></tags>
+    <id type="integer">25612612</id>
+    <duration-in-seconds type="integer">1680</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-22T13:54:21Z</created-at>
+      <completed-on type="datetime">2014-07-23T11:54:20Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2016-09-15T17:10:04Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2405052</id>
+      <reporters>
+      </reporters>
+      <hours type="float">3.18</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T09:26:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-22T09:54:25Z</end-time>
+    <created-at type="datetime">2014-07-22T12:31:10Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-22T13:56:10Z</updated-at>
+    <tags></tags>
+    <id type="integer">25611339</id>
+    <duration-in-seconds type="integer">5295</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-22T08:26:09Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T18:27:20Z</end-time>
+    <created-at type="datetime">2014-07-21T21:18:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T22:27:20Z</updated-at>
+    <tags></tags>
+    <id type="integer">25604295</id>
+    <duration-in-seconds type="integer">4187</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T17:17:32Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T17:17:32Z</end-time>
+    <created-at type="datetime">2014-07-21T21:08:41Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T21:18:05Z</updated-at>
+    <tags></tags>
+    <id type="integer">25604163</id>
+    <duration-in-seconds type="integer">858</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T17:03:14Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T17:03:14Z</end-time>
+    <created-at type="datetime">2014-07-21T20:48:22Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T21:08:50Z</updated-at>
+    <tags></tags>
+    <id type="integer">25603949</id>
+    <duration-in-seconds type="integer">1178</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-16T16:18:21Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:24Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:24Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401756</id>
+      <reporters>
+      </reporters>
+      <hours type="float">13.98</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T16:43:35Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T16:43:35Z</end-time>
+    <created-at type="datetime">2014-07-21T20:28:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T20:48:21Z</updated-at>
+    <tags></tags>
+    <id type="integer">25603680</id>
+    <duration-in-seconds type="integer">1126</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T16:24:48Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T16:24:48Z</end-time>
+    <created-at type="datetime">2014-07-21T20:13:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T20:28:05Z</updated-at>
+    <tags></tags>
+    <id type="integer">25603512</id>
+    <duration-in-seconds type="integer">983</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-16T16:18:21Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:24Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:24Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401756</id>
+      <reporters>
+      </reporters>
+      <hours type="float">13.98</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T16:08:24Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T16:08:24Z</end-time>
+    <created-at type="datetime">2014-07-21T19:48:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T20:13:05Z</updated-at>
+    <tags></tags>
+    <id type="integer">25603190</id>
+    <duration-in-seconds type="integer">1354</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-21T16:22:10Z</created-at>
+      <completed-on type="datetime">2014-07-28T12:55:24Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:05Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2404325</id>
+      <reporters>
+      </reporters>
+      <hours type="float">0.94</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T15:45:50Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T15:45:50Z</end-time>
+    <created-at type="datetime">2014-07-21T19:13:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T19:48:05Z</updated-at>
+    <tags></tags>
+    <id type="integer">25602786</id>
+    <duration-in-seconds type="integer">2046</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T15:11:43Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T15:11:43Z</end-time>
+    <created-at type="datetime">2014-07-21T18:23:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T19:13:05Z</updated-at>
+    <tags></tags>
+    <id type="integer">25602084</id>
+    <duration-in-seconds type="integer">3153</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-17T19:59:04Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:25Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:19Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2402688</id>
+      <reporters>
+      </reporters>
+      <hours type="float">36.89</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T14:19:09Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T14:19:09Z</end-time>
+    <created-at type="datetime">2014-07-21T16:58:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T18:23:04Z</updated-at>
+    <tags></tags>
+    <id type="integer">25600775</id>
+    <duration-in-seconds type="integer">5011</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T12:55:38Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T12:55:38Z</end-time>
+    <created-at type="datetime">2014-07-21T16:23:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T16:58:05Z</updated-at>
+    <tags></tags>
+    <id type="integer">25600231</id>
+    <duration-in-seconds type="integer">2005</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-21T16:22:10Z</created-at>
+      <completed-on type="datetime">2014-07-28T12:55:24Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:05Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2404325</id>
+      <reporters>
+      </reporters>
+      <hours type="float">0.94</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T12:22:12Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T12:22:12Z</end-time>
+    <created-at type="datetime">2014-07-21T15:33:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T16:23:04Z</updated-at>
+    <tags></tags>
+    <id type="integer">25599317</id>
+    <duration-in-seconds type="integer">3139</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Lunch</name>
+      <created-at type="datetime">2014-07-16T16:24:00Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:32Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401767</id>
+      <reporters>
+      </reporters>
+      <hours type="float">933.99</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T11:29:53Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T11:29:53Z</end-time>
+    <created-at type="datetime">2014-07-21T14:48:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-21T15:33:04Z</updated-at>
+    <tags></tags>
+    <id type="integer">25598520</id>
+    <duration-in-seconds type="integer">2808</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-21T14:42:16Z</created-at>
+      <completed-on type="datetime">2014-07-23T11:54:14Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:14Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2404232</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1.17</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T10:43:04Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T09:45:00Z</end-time>
+    <created-at type="datetime">2014-07-21T14:42:16Z</created-at>
+    <comments>Reading the revision memo for 1pm meeting. </comments>
+    <updated-at type="datetime">2014-07-21T14:42:16Z</updated-at>
+    <tags></tags>
+    <id type="integer">25598423</id>
+    <duration-in-seconds type="integer">1380</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-21T14:42:16Z</created-at>
+      <completed-on type="datetime">2014-07-23T11:54:14Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:14Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2404232</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1.17</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T09:22:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-21T10:35:00Z</end-time>
+    <created-at type="datetime">2014-07-21T14:41:17Z</created-at>
+    <comments>Meeting with Anya. Overview of tasks, expectations for the next year. </comments>
+    <updated-at type="datetime">2014-07-21T14:41:17Z</updated-at>
+    <tags></tags>
+    <id type="integer">25598405</id>
+    <duration-in-seconds type="integer">3000</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-21T09:45:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T17:44:00Z</end-time>
+    <created-at type="datetime">2014-07-18T21:46:25Z</created-at>
+    <comments>Finishing Survey Development. Na&#239;ve development completed. </comments>
+    <updated-at type="datetime">2014-07-18T21:46:25Z</updated-at>
+    <tags></tags>
+    <id type="integer">25589210</id>
+    <duration-in-seconds type="integer">1440</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T17:20:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T17:20:04Z</end-time>
+    <created-at type="datetime">2014-07-18T21:08:49Z</created-at>
+    <comments>Selecting reading for study. Organizing desk for weekend exit. </comments>
+    <updated-at type="datetime">2014-07-18T21:45:36Z</updated-at>
+    <tags></tags>
+    <id type="integer">25588969</id>
+    <duration-in-seconds type="integer">728</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T17:07:56Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T15:34:16Z</end-time>
+    <created-at type="datetime">2014-07-18T19:38:49Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-18T19:38:49Z</updated-at>
+    <tags></tags>
+    <id type="integer">25588101</id>
+    <duration-in-seconds type="integer">27</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T15:33:48Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T17:07:56Z</end-time>
+    <created-at type="datetime">2014-07-18T19:38:49Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-18T21:08:48Z</updated-at>
+    <tags></tags>
+    <id type="integer">25588100</id>
+    <duration-in-seconds type="integer">5620</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T15:34:16Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T15:33:00Z</end-time>
+    <created-at type="datetime">2014-07-18T19:33:42Z</created-at>
+    <comments>Meeting with Anya. Given project for generate a progress report. </comments>
+    <updated-at type="datetime">2014-07-18T19:33:42Z</updated-at>
+    <tags></tags>
+    <id type="integer">25588036</id>
+    <duration-in-seconds type="integer">2100</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T14:58:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T14:58:00Z</end-time>
+    <created-at type="datetime">2014-07-18T18:45:47Z</created-at>
+    <comments>Collect progress report on reading/projects. Checked personal email for doctor apt confirmation. Check flagged emails on outlook. </comments>
+    <updated-at type="datetime">2014-07-18T19:33:03Z</updated-at>
+    <tags></tags>
+    <id type="integer">25587542</id>
+    <duration-in-seconds type="integer">1013</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T14:41:07Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T14:41:07Z</end-time>
+    <created-at type="datetime">2014-07-18T17:10:47Z</created-at>
+    <comments>Regression from older version. Made real adjustment and significant progress on newer version. ETA 5:30pm. </comments>
+    <updated-at type="datetime">2014-07-18T18:48:41Z</updated-at>
+    <tags></tags>
+    <id type="integer">25586528</id>
+    <duration-in-seconds type="integer">5720</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T13:05:46Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T13:05:45Z</end-time>
+    <created-at type="datetime">2014-07-18T16:12:04Z</created-at>
+    <comments>Returned to desk at 12:33pm. </comments>
+    <updated-at type="datetime">2014-07-18T18:49:08Z</updated-at>
+    <tags></tags>
+    <id type="integer">25585803</id>
+    <duration-in-seconds type="integer">3285</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Lunch</name>
+      <created-at type="datetime">2014-07-16T16:24:00Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:32Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401767</id>
+      <reporters>
+      </reporters>
+      <hours type="float">933.99</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T12:10:59Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T12:10:59Z</end-time>
+    <created-at type="datetime">2014-07-18T16:07:04Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-18T16:12:04Z</updated-at>
+    <tags></tags>
+    <id type="integer">25585745</id>
+    <duration-in-seconds type="integer">536</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T12:02:03Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T12:00:00Z</end-time>
+    <created-at type="datetime">2014-07-18T16:01:04Z</created-at>
+    <comments>Presentation with Anya. </comments>
+    <updated-at type="datetime">2014-07-18T16:01:04Z</updated-at>
+    <tags></tags>
+    <id type="integer">25585621</id>
+    <duration-in-seconds type="integer">3720</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T10:58:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T10:58:00Z</end-time>
+    <created-at type="datetime">2014-07-18T14:39:04Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-18T16:00:25Z</updated-at>
+    <tags></tags>
+    <id type="integer">25584422</id>
+    <duration-in-seconds type="integer">1346</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T10:35:34Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T10:35:34Z</end-time>
+    <created-at type="datetime">2014-07-18T14:14:04Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-18T14:39:03Z</updated-at>
+    <tags></tags>
+    <id type="integer">25584084</id>
+    <duration-in-seconds type="integer">1386</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-17T19:59:04Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:25Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:19Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2402688</id>
+      <reporters>
+      </reporters>
+      <hours type="float">36.89</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T10:12:28Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T10:12:28Z</end-time>
+    <created-at type="datetime">2014-07-18T14:09:04Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-18T14:14:05Z</updated-at>
+    <tags></tags>
+    <id type="integer">25584003</id>
+    <duration-in-seconds type="integer">400</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T10:05:47Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-18T10:05:47Z</end-time>
+    <created-at type="datetime">2014-07-18T12:49:04Z</created-at>
+    <comments>Going through conceptual framework with notes. </comments>
+    <updated-at type="datetime">2014-07-18T14:36:37Z</updated-at>
+    <tags></tags>
+    <id type="integer">25583039</id>
+    <duration-in-seconds type="integer">4904</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-17T19:59:04Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:25Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:19Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2402688</id>
+      <reporters>
+      </reporters>
+      <hours type="float">36.89</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-18T08:44:03Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T16:55:38Z</end-time>
+    <created-at type="datetime">2014-07-17T20:04:07Z</created-at>
+    <comments>Reading the CPI - conceptual framework and construction. </comments>
+    <updated-at type="datetime">2014-07-17T20:58:40Z</updated-at>
+    <tags></tags>
+    <id type="integer">25575960</id>
+    <duration-in-seconds type="integer">3391</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-17T19:59:04Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:25Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:19Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2402688</id>
+      <reporters>
+      </reporters>
+      <hours type="float">36.89</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T15:59:07Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T15:58:51Z</end-time>
+    <created-at type="datetime">2014-07-17T19:57:36Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-17T19:58:51Z</updated-at>
+    <tags></tags>
+    <id type="integer">25575889</id>
+    <duration-in-seconds type="integer">375</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T15:52:35Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T15:52:11Z</end-time>
+    <created-at type="datetime">2014-07-17T19:39:34Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-17T19:52:11Z</updated-at>
+    <tags></tags>
+    <id type="integer">25575694</id>
+    <duration-in-seconds type="integer">1057</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T15:34:33Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T15:30:00Z</end-time>
+    <created-at type="datetime">2014-07-17T19:34:08Z</created-at>
+    <comments>Meet and greet with Transportation and Food sections. </comments>
+    <updated-at type="datetime">2014-07-17T19:34:08Z</updated-at>
+    <tags></tags>
+    <id type="integer">25575631</id>
+    <duration-in-seconds type="integer">2400</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T14:50:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T14:50:25Z</end-time>
+    <created-at type="datetime">2014-07-17T18:34:27Z</created-at>
+    <comments>Working on HTML. </comments>
+    <updated-at type="datetime">2014-07-17T19:33:00Z</updated-at>
+    <tags></tags>
+    <id type="integer">25574987</id>
+    <duration-in-seconds type="integer">1100</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T14:32:05Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T14:32:04Z</end-time>
+    <created-at type="datetime">2014-07-17T18:14:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-17T18:34:27Z</updated-at>
+    <tags></tags>
+    <id type="integer">25574734</id>
+    <duration-in-seconds type="integer">1129</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-16T16:18:21Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:24Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:24Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401756</id>
+      <reporters>
+      </reporters>
+      <hours type="float">13.98</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T14:13:15Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T14:13:15Z</end-time>
+    <created-at type="datetime">2014-07-17T17:34:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-17T18:14:27Z</updated-at>
+    <tags></tags>
+    <id type="integer">25574254</id>
+    <duration-in-seconds type="integer">2472</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T13:32:03Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T13:32:03Z</end-time>
+    <created-at type="datetime">2014-07-17T16:44:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-17T17:34:27Z</updated-at>
+    <tags></tags>
+    <id type="integer">25573621</id>
+    <duration-in-seconds type="integer">2897</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Lunch</name>
+      <created-at type="datetime">2014-07-16T16:24:00Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:32Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401767</id>
+      <reporters>
+      </reporters>
+      <hours type="float">933.99</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T12:43:45Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T12:43:45Z</end-time>
+    <created-at type="datetime">2014-07-17T15:19:27Z</created-at>
+    <comments>Included impromptu meeting. </comments>
+    <updated-at type="datetime">2014-07-17T20:58:08Z</updated-at>
+    <tags></tags>
+    <id type="integer">25572369</id>
+    <duration-in-seconds type="integer">5251</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T11:16:13Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T11:16:13Z</end-time>
+    <created-at type="datetime">2014-07-17T14:29:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-17T15:19:27Z</updated-at>
+    <tags></tags>
+    <id type="integer">25571620</id>
+    <duration-in-seconds type="integer">3001</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T10:26:12Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T10:26:12Z</end-time>
+    <created-at type="datetime">2014-07-17T14:29:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-17T14:29:27Z</updated-at>
+    <tags></tags>
+    <id type="integer">25571619</id>
+    <duration-in-seconds type="integer">11</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T10:26:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T08:36:22Z</end-time>
+    <created-at type="datetime">2014-07-17T12:39:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-17T12:39:27Z</updated-at>
+    <tags></tags>
+    <id type="integer">25570086</id>
+    <duration-in-seconds type="integer">118</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T08:34:23Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T10:26:00Z</end-time>
+    <created-at type="datetime">2014-07-17T12:39:27Z</created-at>
+    <comments>Took notes. Covered up to page 12. </comments>
+    <updated-at type="datetime">2014-07-17T15:31:25Z</updated-at>
+    <tags></tags>
+    <id type="integer">25570085</id>
+    <duration-in-seconds type="integer">6578</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-16T16:18:21Z</created-at>
+      <completed-on type="datetime">2014-11-21T10:06:24Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:24Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401756</id>
+      <reporters>
+      </reporters>
+      <hours type="float">13.98</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T08:36:22Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-17T08:34:17Z</end-time>
+    <created-at type="datetime">2014-07-17T12:34:27Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-17T12:34:27Z</updated-at>
+    <tags></tags>
+    <id type="integer">25570024</id>
+    <duration-in-seconds type="integer">290</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-17T08:29:27Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T16:00:00Z</end-time>
+    <created-at type="datetime">2014-07-16T20:15:41Z</created-at>
+    <comments>TPOPS meeting with Erik.</comments>
+    <updated-at type="datetime">2014-07-16T20:15:41Z</updated-at>
+    <tags>TPOPS</tags>
+    <id type="integer">25563156</id>
+    <duration-in-seconds type="integer">3600</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T15:00:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T17:17:15Z</end-time>
+    <created-at type="datetime">2014-07-16T20:15:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-16T21:17:15Z</updated-at>
+    <tags></tags>
+    <id type="integer">25563145</id>
+    <duration-in-seconds type="integer">3777</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T16:14:17Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T16:14:17Z</end-time>
+    <created-at type="datetime">2014-07-16T20:05:05Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-16T20:15:05Z</updated-at>
+    <tags></tags>
+    <id type="integer">25563024</id>
+    <duration-in-seconds type="integer">853</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T16:00:04Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T14:59:56Z</end-time>
+    <created-at type="datetime">2014-07-16T18:29:07Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-16T19:00:07Z</updated-at>
+    <tags></tags>
+    <id type="integer">25561857</id>
+    <duration-in-seconds type="integer">2167</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>TPOPS - Developing Website Survey</name>
+      <created-at type="datetime">2014-07-16T16:15:47Z</created-at>
+      <completed-on type="datetime">2015-05-08T15:29:28Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:46:49Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401752</id>
+      <reporters>
+      </reporters>
+      <hours type="float">26.71</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T14:23:49Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T14:20:00Z</end-time>
+    <created-at type="datetime">2014-07-16T18:22:38Z</created-at>
+    <comments>Meeting with Anya. CPI Index Overview</comments>
+    <updated-at type="datetime">2014-07-16T18:22:38Z</updated-at>
+    <tags>Meeting,Overview,Training</tags>
+    <id type="integer">25561785</id>
+    <duration-in-seconds type="integer">3000</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T13:30:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T13:30:48Z</end-time>
+    <created-at type="datetime">2014-07-16T17:29:38Z</created-at>
+    <comments>Slight Reading - Meeting interruption</comments>
+    <updated-at type="datetime">2014-07-16T18:23:29Z</updated-at>
+    <tags>Quality,Quarterly,Reading,Requirements,Training</tags>
+    <id type="integer">25561084</id>
+    <duration-in-seconds type="integer">231</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Modules</name>
+      <created-at type="datetime">2014-07-16T16:19:13Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:29Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401758</id>
+      <reporters>
+      </reporters>
+      <hours type="float">46.97</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T13:26:57Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T13:26:57Z</end-time>
+    <created-at type="datetime">2014-07-16T16:39:42Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-16T17:29:36Z</updated-at>
+    <tags></tags>
+    <id type="integer">25560442</id>
+    <duration-in-seconds type="integer">3146</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Lunch</name>
+      <created-at type="datetime">2014-07-16T16:24:00Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:32Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401767</id>
+      <reporters>
+      </reporters>
+      <hours type="float">933.99</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T12:34:31Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T12:34:30Z</end-time>
+    <created-at type="datetime">2014-07-16T16:32:08Z</created-at>
+    <comments></comments>
+    <updated-at type="datetime">2014-07-16T16:34:30Z</updated-at>
+    <tags></tags>
+    <id type="integer">25560334</id>
+    <duration-in-seconds type="integer">442</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T12:27:08Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T11:20:00Z</end-time>
+    <created-at type="datetime">2014-07-16T16:26:54Z</created-at>
+    <comments>Cleaned office and attempted to delivery certificate.</comments>
+    <updated-at type="datetime">2014-07-16T16:26:54Z</updated-at>
+    <tags></tags>
+    <id type="integer">25560261</id>
+    <duration-in-seconds type="integer">1200</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Misc - Misc/Admin</name>
+      <created-at type="datetime">2014-07-16T16:22:04Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:29:38Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401764</id>
+      <reporters>
+      </reporters>
+      <hours type="float">592.87</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T11:00:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T12:15:00Z</end-time>
+    <created-at type="datetime">2014-07-16T16:25:44Z</created-at>
+    <comments>Page 6 of Quality Quarterly - "The CPI Since 1974: What I saw, What I Learned."</comments>
+    <updated-at type="datetime">2014-07-16T18:23:14Z</updated-at>
+    <tags>Reading,Requirements,Training</tags>
+    <id type="integer">25560250</id>
+    <duration-in-seconds type="integer">3300</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Training - Materials and Moduels</name>
+      <created-at type="datetime">2014-07-16T16:25:44Z</created-at>
+      <completed-on type="datetime">2014-07-28T12:55:08Z</completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:45:30Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401769</id>
+      <reporters>
+      </reporters>
+      <hours type="float">0.92</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T11:20:00Z</start-time>
+  </time-entry>
+  <time-entry>
+    <end-time type="datetime">2014-07-16T11:00:00Z</end-time>
+    <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+    <comments>Repeat meeting</comments>
+    <updated-at type="datetime">2014-07-16T18:22:59Z</updated-at>
+    <tags>Bi-Monthly,Meeting</tags>
+    <id type="integer">25560188</id>
+    <duration-in-seconds type="integer">3600</duration-in-seconds>
+    <task>
+      <coworkers>
+      </coworkers>
+      <name>Admin - Meeting</name>
+      <created-at type="datetime">2014-07-16T16:21:02Z</created-at>
+      <completed-on nil="true"></completed-on>
+      <owners>
+        <person>
+          <name>Greg Barbieri</name>
+          <user-id type="integer">125391</user-id>
+          <email>barbieri.greg@bls.gov</email>
+        </person>
+      </owners>
+      <updated-at type="datetime">2019-05-22T19:28:54Z</updated-at>
+      <role>owner</role>
+      <tags></tags>
+      <id type="integer">2401762</id>
+      <reporters>
+      </reporters>
+      <hours type="float">1166.23</hours>
+    </task>
+    <in-progress type="boolean">false</in-progress>
+    <start-time type="datetime">2014-07-16T10:00:00Z</start-time>
+  </time-entry>
+</time-entries>
