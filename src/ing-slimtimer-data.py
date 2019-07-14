@@ -26,7 +26,7 @@ def buildDateRange(start_month, start_year, end_month, end_year):
 
     return dates
 
-def slimtimerAPI(dates, api_key, user_name, password, user, access, output):
+def slimtimerAPI(dates, api_key, user_id, access, output):
     '''
     Build request for SlimTimer API, make request, output data.
     '''
@@ -34,15 +34,15 @@ def slimtimerAPI(dates, api_key, user_name, password, user, access, output):
     headers = {'Accept': 'application/{}'.format(output),
                'Content-Type': 'application/{}'.format(output)}
 
-    call_url = 'http://slimtimer.com/users/{}/time_entries'.format(user)
+    call_url = 'http://slimtimer.com/users/{}/time_entries'.format(user_id)
 
     #For each month/year, pull tasks.
-    for month, year in dates[0:1]:
+    for month, year in dates:
         #Set date range for API call. Ranges are monthly.
         month_range = calendar.monthrange(int(year),int(month))
         month_start = str(1).zfill(2)
         month_end = str(month_range[1])
-        print('Created date range as {}/{}/{} to {}/{}/{}'.format(month,month_start,year,month,month_end,year))
+        print('Created date range as {}/{}/{} to {}/{}/{}'.format(month, month_start, year, month, month_end,year))
 
         #Create API parameter argument.
         params = {'api_key': api_key,
@@ -73,17 +73,21 @@ def outputFile(request, month, year, day_start, day_end):
     print("Output data at {}".format(datetime.datetime.now().strftime("%H:%M:%S")))
 
 def main():
+    '''
+    Driver function.
+    '''
     #Slimtimer API log-in information.
     file_path = os.path.join(os.getcwd(),'../api_info.txt')
     api_info = json.load(open(file_path, 'r'))
 
     #Create date ranges.
-    date_range = buildDateRange(start_month=7, start_year=2014, end_month=7, end_year=2019)
+    date_range = buildDateRange(start_month=7, start_year=2014,
+                                end_month=7, end_year=2019)
 
     #Call SlimTimer API and output data.
     slimtimerAPI(date_range,
-                 api_key=api_info['api_key'], user_name=api_info['user_name'], password=api_info['password'],
-                 user=api_info['user'], access=api_info['access'], output='xml')
+                 api_key=api_info['api_key'], user_id=api_info['user_id'],
+                 access=api_info['access'], output='xml')
 
 if __name__ == '__main__':
     main()
