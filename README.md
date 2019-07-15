@@ -2,7 +2,7 @@
 This repository contains the raw data and code to produce clean versions of task, time, and income data performed and earned while at the Bureau of Labor Statistics (BLS).
 
 ### Goals
-To my knowledge, no government employee has ever documented their time in as much detail as I have recorded and made available in this repository. The goal was to continue to learn and practice Python and data analysis, but with a personal twist this time.
+To my knowledge, no government employee has ever documented their time in as much detail as I have made available in this repository. The goal was to continue to learn and practice Python and data analysis, but with a personal twist.
 
 ### Data
 1. **Time Data**: Time data is from official timesheet records, submitted bi-weekly since I started on 7/14/2014.
