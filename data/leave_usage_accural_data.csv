@@ -1,0 +1,648 @@
+accured,balance,na_col_1,pay_period,projected_uol,type,used
+4 ,4 ,,"2014,14",0 ,Annual,0 
+4 ,4 ,,"2014,14",,Sick,0 
+0 ,0 ,,"2014,14",,Compensatory,0 
+8 ,8 ,,"2014,15",0 ,Annual,0 
+8 ,8 ,,"2014,15",,Sick,0 
+0 ,0 ,,"2014,15",,Compensatory,0 
+12 ,12 ,,"2014,16",0 ,Annual,0 
+12 ,12 ,,"2014,16",,Sick,0 
+0 ,0 ,,"2014,16",,Compensatory,0 
+16 ,16 ,,"2014,17",0 ,Annual,0 
+16 ,16 ,,"2014,17",,Sick,0 
+0 ,0 ,,"2014,17",,Compensatory,0 
+20 ,20 ,,"2014,18",0 ,Annual,0 
+20 ,20 ,,"2014,18",,Sick,0 
+0 ,0 ,,"2014,18",,Compensatory,0 
+24 ,24 ,,"2014,19",0 ,Annual,0 
+24 ,24 ,,"2014,19",,Sick,0 
+0 ,0 ,,"2014,19",,Compensatory,0 
+28 ,28 ,,"2014,20",0 ,Annual,0 
+28 ,28 ,,"2014,20",,Sick,0 
+0 ,0 ,,"2014,20",,Compensatory,0 
+32 ,32 ,,"2014,21",0 ,Annual,0 
+32 ,32 ,,"2014,21",,Sick,0 
+0 ,0 ,,"2014,21",,Compensatory,0 
+36 ,36 ,,"2014,22",0 ,Annual,0 
+36 ,36 ,,"2014,22",,Sick,0 
+0 ,0 ,,"2014,22",,Compensatory,0 
+40 ,40 ,,"2014,23",0 ,Annual,0 
+40 ,40 ,,"2014,23",,Sick,0 
+0 ,0 ,,"2014,23",,Compensatory,0 
+44 ,44 ,,"2014,24",0 ,Annual,0 
+44 ,44 ,,"2014,24",,Sick,0 
+0 ,0 ,,"2014,24",,Compensatory,0 
+48 ,48 ,,"2014,25",0 ,Annual,0 
+48 ,48 ,,"2014,25",,Sick,0 
+0 ,0 ,,"2014,25",,Compensatory,0 
+52 ,44 ,,"2014,26",0 ,Annual,8 
+52 ,52 ,,"2014,26",,Sick,0 
+0 ,0 ,,"2014,26",,Compensatory,0 
+4 ,48 ,,"2015,01",0 ,Annual,0 
+4 ,56 ,,"2015,01",,Sick,0 
+0 ,0 ,,"2015,01",,Compensatory,0 
+8 ,52 ,,"2015,02",0 ,Annual,0 
+8 ,60 ,,"2015,02",,Sick,0 
+0 ,0 ,,"2015,02",,Compensatory,0 
+12 ,56 ,,"2015,03",0 ,Annual,0 
+12 ,64 ,,"2015,03",,Sick,0 
+0 ,0 ,,"2015,03",,Compensatory,0 
+16 ,60 ,,"2015,04",0 ,Annual,0 
+16 ,68 ,,"2015,04",,Sick,0 
+0 ,0 ,,"2015,04",,Compensatory,0 
+20 ,56 ,,"2015,05",0 ,Annual,8 
+20 ,72 ,,"2015,05",,Sick,0 
+0 ,0 ,,"2015,05",,Compensatory,0 
+24 ,60 ,,"2015,06",0 ,Annual,8 
+24 ,76 ,,"2015,06",,Sick,0 
+0 ,0 ,,"2015,06",,Compensatory,0 
+28 ,64 ,,"2015,07",0 ,Annual,8 
+28 ,80 ,,"2015,07",,Sick,0 
+0 ,0 ,,"2015,07",,Compensatory,0 
+32 ,68 ,,"2015,08",0 ,Annual,8 
+32 ,80.75 ,,"2015,08",,Sick,3.25 
+0 ,0 ,,"2015,08",,Compensatory,0 
+36 ,72 ,,"2015,09",0 ,Annual,8 
+36 ,84.75 ,,"2015,09",,Sick,3.25 
+0 ,0 ,,"2015,09",,Compensatory,0 
+40 ,76 ,,"2015,10",0 ,Annual,8 
+40 ,88.75 ,,"2015,10",,Sick,3.25 
+0 ,0 ,,"2015,10",,Compensatory,0 
+44 ,80 ,,"2015,11",0 ,Annual,8 
+44 ,92.75 ,,"2015,11",,Sick,3.25 
+0 ,0 ,,"2015,11",,Compensatory,0 
+48 ,84 ,,"2015,12",0 ,Annual,8 
+48 ,96.75 ,,"2015,12",,Sick,3.25 
+0 ,0 ,,"2015,12",,Compensatory,0 
+52 ,88 ,,"2015,13",0 ,Annual,8 
+52 ,100.75 ,,"2015,13",,Sick,3.25 
+0 ,0 ,,"2015,13",,Compensatory,0 
+56 ,92 ,,"2015,14",0 ,Annual,8 
+56 ,104.75 ,,"2015,14",,Sick,3.25 
+0 ,0 ,,"2015,14",,Compensatory,0 
+60 ,96 ,,"2015,15",0 ,Annual,8 
+60 ,104.75 ,,"2015,15",,Sick,7.25 
+0 ,0 ,,"2015,15",,Compensatory,0 
+64 ,100 ,,"2015,16",0 ,Annual,8 
+64 ,108.75 ,,"2015,16",,Sick,7.25 
+0 ,0 ,,"2015,16",,Compensatory,0 
+68 ,104 ,,"2015,17",0 ,Annual,8 
+68 ,112.75 ,,"2015,17",,Sick,7.25 
+0 ,0 ,,"2015,17",,Compensatory,0 
+72 ,92 ,,"2015,18",0 ,Annual,24 
+72 ,116.75 ,,"2015,18",,Sick,7.25 
+0 ,0 ,,"2015,18",,Compensatory,0 
+76 ,88 ,,"2015,19",0 ,Annual,32 
+76 ,120.75 ,,"2015,19",,Sick,7.25 
+0 ,0 ,,"2015,19",,Compensatory,0 
+80 ,92 ,,"2015,20",0 ,Annual,32 
+80 ,124.75 ,,"2015,20",,Sick,7.25 
+0 ,0 ,,"2015,20",,Compensatory,0 
+84 ,96 ,,"2015,21",0 ,Annual,32 
+84 ,128.75 ,,"2015,21",,Sick,7.25 
+0 ,0 ,,"2015,21",,Compensatory,0 
+88 ,100 ,,"2015,22",0 ,Annual,32 
+88 ,132.75 ,,"2015,22",,Sick,7.25 
+0 ,0 ,,"2015,22",,Compensatory,0 
+92 ,96 ,,"2015,23",0 ,Annual,40 
+92 ,136.75 ,,"2015,23",,Sick,7.25 
+0 ,0 ,,"2015,23",,Compensatory,0 
+96 ,100 ,,"2015,24",0 ,Annual,40 
+96 ,136.50 ,,"2015,24",,Sick,11.50 
+0 ,0 ,,"2015,24",,Compensatory,0 
+100 ,77.50 ,,"2015,25",0 ,Annual,66.50 
+100 ,140.50 ,,"2015,25",,Sick,11.50 
+0 ,0 ,,"2015,25",,Compensatory,0 
+104 ,81.50 ,,"2015,26",0 ,Annual,66.50 
+104 ,144.50 ,,"2015,26",,Sick,11.50 
+0 ,0 ,,"2015,26",,Compensatory,0 
+4 ,85.50 ,,"2016,01",0 ,Annual,0 
+4 ,146.75 ,,"2016,01",,Sick,1.75 
+0 ,0 ,,"2016,01",,Compensatory,0 
+8 ,89.50 ,,"2016,02",0 ,Annual,0 
+8 ,150.75 ,,"2016,02",,Sick,1.75 
+0 ,0 ,,"2016,02",,Compensatory,0 
+12 ,93.50 ,,"2016,03",0 ,Annual,0 
+12 ,154.75 ,,"2016,03",,Sick,1.75 
+0 ,0 ,,"2016,03",,Compensatory,0 
+16 ,97.50 ,,"2016,04",0 ,Annual,0 
+16 ,158.75 ,,"2016,04",,Sick,1.75 
+0 ,0 ,,"2016,04",,Compensatory,0 
+20 ,53.50 ,,"2016,05",0 ,Annual,48 
+20 ,162.75 ,,"2016,05",,Sick,1.75 
+0 ,0 ,,"2016,05",,Compensatory,0 
+24 ,17.50 ,,"2016,06",0 ,Annual,88 
+24 ,166.75 ,,"2016,06",,Sick,1.75 
+0 ,0 ,,"2016,06",,Compensatory,0 
+28 ,21.50 ,,"2016,07",0 ,Annual,88 
+28 ,170.75 ,,"2016,07",,Sick,1.75 
+0 ,0 ,,"2016,07",,Compensatory,0 
+32 ,25.50 ,,"2016,08",0 ,Annual,88 
+32 ,174.75 ,,"2016,08",,Sick,1.75 
+0 ,0 ,,"2016,08",,Compensatory,0 
+36 ,29.50 ,,"2016,09",0 ,Annual,88 
+36 ,178.75 ,,"2016,09",,Sick,1.75 
+0 ,0 ,,"2016,09",,Compensatory,0 
+40 ,33.50 ,,"2016,10",0 ,Annual,88 
+40 ,182.75 ,,"2016,10",,Sick,1.75 
+0 ,0 ,,"2016,10",,Compensatory,0 
+44 ,37.50 ,,"2016,11",0 ,Annual,88 
+44 ,186.75 ,,"2016,11",,Sick,1.75 
+0 ,0 ,,"2016,11",,Compensatory,0 
+48 ,41.50 ,,"2016,12",0 ,Annual,88 
+48 ,190.75 ,,"2016,12",,Sick,1.75 
+0 ,0 ,,"2016,12",,Compensatory,0 
+52 ,45.50 ,,"2016,13",0 ,Annual,88 
+52 ,194.75 ,,"2016,13",,Sick,1.75 
+0 ,0 ,,"2016,13",,Compensatory,0 
+56 ,49.50 ,,"2016,14",0 ,Annual,88 
+56 ,198.75 ,,"2016,14",,Sick,1.75 
+0 ,0 ,,"2016,14",,Compensatory,0 
+60 ,53.50 ,,"2016,15",0 ,Annual,88 
+60 ,202.75 ,,"2016,15",,Sick,1.75 
+0 ,0 ,,"2016,15",,Compensatory,0 
+64 ,57.50 ,,"2016,16",0 ,Annual,88 
+64 ,206.75 ,,"2016,16",,Sick,1.75 
+0 ,0 ,,"2016,16",,Compensatory,0 
+68 ,61.50 ,,"2016,17",0 ,Annual,88 
+68 ,210.75 ,,"2016,17",,Sick,1.75 
+0 ,0 ,,"2016,17",,Compensatory,0 
+72 ,49.50 ,,"2016,18",0 ,Annual,104 
+72 ,214.75 ,,"2016,18",,Sick,1.75 
+0 ,0 ,,"2016,18",,Compensatory,0 
+76 ,53.50 ,,"2016,19",0 ,Annual,104 
+76 ,210.75 ,,"2016,19",,Sick,9.75 
+0 ,0 ,,"2016,19",,Compensatory,0 
+80 ,57.50 ,,"2016,20",0 ,Annual,104 
+80 ,214.75 ,,"2016,20",,Sick,9.75 
+0 ,0 ,,"2016,20",,Compensatory,0 
+84 ,61.50 ,,"2016,21",0 ,Annual,104 
+84 ,218.75 ,,"2016,21",,Sick,9.75 
+0 ,0 ,,"2016,21",,Compensatory,0 
+88 ,65.50 ,,"2016,22",0 ,Annual,104 
+88 ,222.75 ,,"2016,22",,Sick,9.75 
+0 ,0 ,,"2016,22",,Compensatory,0 
+92 ,69.50 ,,"2016,23",0 ,Annual,104 
+92 ,224.25 ,,"2016,23",,Sick,12.25 
+0 ,0 ,,"2016,23",,Compensatory,0 
+96 ,73.50 ,,"2016,24",0 ,Annual,104 
+96 ,228.25 ,,"2016,24",,Sick,12.25 
+0 ,0 ,,"2016,24",,Compensatory,0 
+100 ,77.50 ,,"2016,25",0 ,Annual,104 
+100 ,232.25 ,,"2016,25",,Sick,12.25 
+0 ,0 ,,"2016,25",,Compensatory,0 
+104 ,59.50 ,,"2016,26",0 ,Annual,126 
+104 ,236.25 ,,"2016,26",,Sick,12.25 
+0 ,0 ,,"2016,26",,Compensatory,0 
+4 ,63.50 ,,"2017,01",0 ,Annual,0 
+4 ,240.25 ,,"2017,01",,Sick,0 
+0 ,0 ,,"2017,01",,Compensatory,0 
+8 ,67.50 ,,"2017,02",0 ,Annual,0 
+8 ,244.25 ,,"2017,02",,Sick,0 
+0 ,0 ,,"2017,02",,Compensatory,0 
+12 ,71.50 ,,"2017,03",0 ,Annual,0 
+12 ,248.25 ,,"2017,03",,Sick,0 
+0 ,0 ,,"2017,03",,Compensatory,0 
+16 ,58.50 ,,"2017,04",0 ,Annual,17 
+16 ,252.25 ,,"2017,04",,Sick,0 
+0 ,0 ,,"2017,04",,Compensatory,0 
+20 ,37.75 ,,"2017,05",0 ,Annual,41.75 
+20 ,248.25 ,,"2017,05",,Sick,8 
+0 ,0 ,,"2017,05",,Compensatory,0 
+24 ,41.75 ,,"2017,06",0 ,Annual,41.75 
+24 ,252.25 ,,"2017,06",,Sick,8 
+0 ,0 ,,"2017,06",,Compensatory,0 
+28 ,41.25 ,,"2017,07",0 ,Annual,46.25 
+28 ,256.25 ,,"2017,07",,Sick,8 
+0 ,0 ,,"2017,07",,Compensatory,0 
+32 ,45.25 ,,"2017,08",0 ,Annual,46.25 
+32 ,260.25 ,,"2017,08",,Sick,8 
+0 ,0 ,,"2017,08",,Compensatory,0 
+36 ,49.25 ,,"2017,09",0 ,Annual,46.25 
+36 ,256.25 ,,"2017,09",,Sick,16 
+0 ,0 ,,"2017,09",,Compensatory,0 
+40 ,29.75 ,,"2017,10",0 ,Annual,69.75 
+40 ,260.25 ,,"2017,10",,Sick,16 
+0 ,0 ,,"2017,10",,Compensatory,0 
+44 ,33.25 ,,"2017,11",0 ,Annual,70.25 
+44 ,264.25 ,,"2017,11",,Sick,16 
+0 ,0 ,,"2017,11",,Compensatory,0 
+48 ,37.25 ,,"2017,12",0 ,Annual,70.25 
+48 ,268.25 ,,"2017,12",,Sick,16 
+0 ,0 ,,"2017,12",,Compensatory,0 
+52 ,41.25 ,,"2017,13",0 ,Annual,70.25 
+52 ,272.25 ,,"2017,13",,Sick,16 
+0 ,0 ,,"2017,13",,Compensatory,0 
+0 ,1.75 ,,"2017,13",,Credit Hours By Pay Period,4.75 
+0 ,0 ,,"2017,13",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,13",,Travel Comp By Pay Period,0 
+0 ,,,"2017,13",,Military,
+0 ,0 ,,"2017,13",,REST ANN LV HRS,0 
+56 ,45.25 ,,"2017,14",0 ,Annual,70.25 
+56 ,276.25 ,,"2017,14",,Sick,16 
+0 ,0 ,,"2017,14",,Compensatory,0 
+0 ,1.75 ,,"2017,14",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,14",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,14",,Travel Comp By Pay Period,0 
+0 ,,,"2017,14",,Military,
+0 ,0 ,,"2017,14",,REST ANN LV HRS,0 
+62 ,37.75 ,,"2017,15",0 ,Annual,83.75 
+60 ,280.25 ,,"2017,15",,Sick,16 
+0 ,0 ,,"2017,15",,Compensatory,0 
+0 ,1.75 ,,"2017,15",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,15",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,15",,Travel Comp By Pay Period,0 
+0 ,,,"2017,15",,Military,
+0 ,0 ,,"2017,15",,REST ANN LV HRS,0 
+68 ,43.75 ,,"2017,16",0 ,Annual,83.75 
+64 ,284.25 ,,"2017,16",,Sick,16 
+0 ,0 ,,"2017,16",,Compensatory,0 
+5.50 ,7.25 ,,"2017,16",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,16",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,16",,Travel Comp By Pay Period,0 
+0 ,,,"2017,16",,Military,
+0 ,0 ,,"2017,16",,REST ANN LV HRS,0 
+74 ,49.75 ,,"2017,17",0 ,Annual,83.75 
+68 ,279.50 ,,"2017,17",,Sick,24.75 
+0 ,0 ,,"2017,17",,Compensatory,0 
+4.75 ,12 ,,"2017,17",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,17",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,17",,Travel Comp By Pay Period,0 
+0 ,,,"2017,17",,Military,
+0 ,0 ,,"2017,17",,REST ANN LV HRS,0 
+80 ,55.75 ,,"2017,18",0 ,Annual,83.75 
+72 ,283.50 ,,"2017,18",,Sick,24.75 
+0 ,0 ,,"2017,18",,Compensatory,0 
+5.75 ,17.75 ,,"2017,18",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,18",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,18",,Travel Comp By Pay Period,0 
+0 ,,,"2017,18",,Military,
+0 ,0 ,,"2017,18",,REST ANN LV HRS,0 
+86 ,61.75 ,,"2017,19",0 ,Annual,83.75 
+76 ,287.50 ,,"2017,19",,Sick,24.75 
+0 ,0 ,,"2017,19",,Compensatory,0 
+5.50 ,23.25 ,,"2017,19",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,19",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,19",,Travel Comp By Pay Period,0 
+0 ,,,"2017,19",,Military,
+0 ,0 ,,"2017,19",,REST ANN LV HRS,0 
+92 ,67.75 ,,"2017,20",0 ,Annual,83.75 
+80 ,291.50 ,,"2017,20",,Sick,24.75 
+0 ,0 ,,"2017,20",,Compensatory,0 
+0 ,22.25 ,,"2017,20",,Credit Hours By Pay Period,1 
+0 ,0 ,,"2017,20",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,20",,Travel Comp By Pay Period,0 
+0 ,,,"2017,20",,Military,
+0 ,0 ,,"2017,20",,REST ANN LV HRS,0 
+98 ,73.75 ,,"2017,21",0 ,Annual,83.75 
+84 ,294.25 ,,"2017,21",,Sick,26 
+0 ,0 ,,"2017,21",,Compensatory,0 
+1.25 ,23.50 ,,"2017,21",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,21",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,21",,Travel Comp By Pay Period,0 
+0 ,,,"2017,21",,Military,
+0 ,0 ,,"2017,21",,REST ANN LV HRS,0 
+104 ,79.75 ,,"2017,22",0 ,Annual,83.75 
+88 ,298.25 ,,"2017,22",,Sick,26 
+0 ,0 ,,"2017,22",,Compensatory,0 
+0.50 ,24 ,,"2017,22",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,22",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,22",,Travel Comp By Pay Period,0 
+0 ,,,"2017,22",,Military,
+0 ,0 ,,"2017,22",,REST ANN LV HRS,0 
+110 ,85.75 ,,"2017,23",0 ,Annual,83.75 
+92 ,302.25 ,,"2017,23",,Sick,26 
+0 ,0 ,,"2017,23",,Compensatory,0 
+0 ,22 ,,"2017,23",,Credit Hours By Pay Period,2 
+0 ,0 ,,"2017,23",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,23",,Travel Comp By Pay Period,0 
+0 ,,,"2017,23",,Military,
+0 ,0 ,,"2017,23",,REST ANN LV HRS,0 
+116 ,91.75 ,,"2017,24",0 ,Annual,83.75 
+96 ,306.25 ,,"2017,24",,Sick,26 
+0 ,0 ,,"2017,24",,Compensatory,0 
+2 ,24 ,,"2017,24",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,24",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,24",,Travel Comp By Pay Period,0 
+0 ,,,"2017,24",,Military,
+0 ,0 ,,"2017,24",,REST ANN LV HRS,0 
+126 ,69.50 ,,"2017,25",0 ,Annual,116 
+100 ,310.25 ,,"2017,25",,Sick,26 
+0 ,0 ,,"2017,25",,Compensatory,0 
+0 ,0 ,,"2017,25",,Credit Hours By Pay Period,24 
+0 ,0 ,,"2017,25",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,25",,Travel Comp By Pay Period,0 
+0 ,,,"2017,25",,Military,
+0 ,0 ,,"2017,25",,REST ANN LV HRS,0 
+132 ,75.50 ,,"2017,26",0 ,Annual,116 
+104 ,314.25 ,,"2017,26",,Sick,26 
+0 ,0 ,,"2017,26",,Compensatory,0 
+0 ,0 ,,"2017,26",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2017,26",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2017,26",,Travel Comp By Pay Period,0 
+0 ,,,"2017,26",,Military,
+0 ,0 ,,"2017,26",,REST ANN LV HRS,0 
+6 ,81 ,,"2018,01",0 ,Annual,0.50 
+4 ,318.25 ,,"2018,01",,Sick,0 
+0 ,0 ,,"2018,01",,Compensatory,0 
+0 ,0 ,,"2018,01",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,01",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,01",,Travel Comp By Pay Period,0 
+0 ,,,"2018,01",,Military,
+0 ,0 ,,"2018,01",,REST ANN LV HRS,0 
+12 ,87 ,,"2018,02",0 ,Annual,0.50 
+8 ,322.25 ,,"2018,02",,Sick,0 
+0 ,0 ,,"2018,02",,Compensatory,0 
+7.25 ,7.25 ,,"2018,02",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,02",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,02",,Travel Comp By Pay Period,0 
+0 ,,,"2018,02",,Military,
+0 ,0 ,,"2018,02",,REST ANN LV HRS,0 
+18 ,85 ,,"2018,03",0 ,Annual,8.50 
+12 ,326.25 ,,"2018,03",,Sick,0 
+0 ,0 ,,"2018,03",,Compensatory,0 
+3.50 ,10.75 ,,"2018,03",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,03",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,03",,Travel Comp By Pay Period,0 
+0 ,,,"2018,03",,Military,
+0 ,0 ,,"2018,03",,REST ANN LV HRS,0 
+24 ,75 ,,"2018,04",0 ,Annual,24.50 
+16 ,330.25 ,,"2018,04",,Sick,0 
+0 ,0 ,,"2018,04",,Compensatory,0 
+3.25 ,14 ,,"2018,04",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,04",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,04",,Travel Comp By Pay Period,0 
+0 ,,,"2018,04",,Military,
+0 ,0 ,,"2018,04",,REST ANN LV HRS,0 
+30 ,81 ,,"2018,05",0 ,Annual,24.50 
+20 ,334.25 ,,"2018,05",,Sick,0 
+0 ,0 ,,"2018,05",,Compensatory,0 
+0.25 ,14.25 ,,"2018,05",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,05",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,05",,Travel Comp By Pay Period,0 
+0 ,,,"2018,05",,Military,
+0 ,0 ,,"2018,05",,REST ANN LV HRS,0 
+36 ,87 ,,"2018,06",0 ,Annual,24.50 
+24 ,334.75 ,,"2018,06",,Sick,3.50 
+0 ,0 ,,"2018,06",,Compensatory,0 
+4.25 ,18.50 ,,"2018,06",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,06",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,06",,Travel Comp By Pay Period,0 
+0 ,,,"2018,06",,Military,
+0 ,0 ,,"2018,06",,REST ANN LV HRS,0 
+42 ,93 ,,"2018,07",0 ,Annual,24.50 
+28 ,338.75 ,,"2018,07",,Sick,3.50 
+0 ,0 ,,"2018,07",,Compensatory,0 
+3 ,21.50 ,,"2018,07",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,07",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,07",,Travel Comp By Pay Period,0 
+0 ,,,"2018,07",,Military,
+0 ,0 ,,"2018,07",,REST ANN LV HRS,0 
+48 ,99 ,,"2018,08",0 ,Annual,24.50 
+32 ,342.75 ,,"2018,08",,Sick,3.50 
+0 ,0 ,,"2018,08",,Compensatory,0 
+0 ,16.25 ,,"2018,08",,Credit Hours By Pay Period,5.25 
+0 ,0 ,,"2018,08",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,08",,Travel Comp By Pay Period,0 
+0 ,,,"2018,08",,Military,
+0 ,0 ,,"2018,08",,REST ANN LV HRS,0 
+54 ,105 ,,"2018,09",0 ,Annual,24.50 
+36 ,346.75 ,,"2018,09",,Sick,3.50 
+0 ,0 ,,"2018,09",,Compensatory,0 
+4.75 ,21 ,,"2018,09",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,09",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,09",,Travel Comp By Pay Period,0 
+0 ,,,"2018,09",,Military,
+0 ,0 ,,"2018,09",,REST ANN LV HRS,0 
+60 ,111 ,,"2018,10",0 ,Annual,24.50 
+40 ,350.75 ,,"2018,10",,Sick,3.50 
+0 ,0 ,,"2018,10",,Compensatory,0 
+0 ,11 ,,"2018,10",,Credit Hours By Pay Period,10 
+0 ,0 ,,"2018,10",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,10",,Travel Comp By Pay Period,0 
+0 ,,,"2018,10",,Military,
+0 ,0 ,,"2018,10",,REST ANN LV HRS,0 
+66 ,117 ,,"2018,11",0 ,Annual,24.50 
+44 ,354.75 ,,"2018,11",,Sick,3.50 
+0 ,0 ,,"2018,11",,Compensatory,0 
+0 ,11 ,,"2018,11",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,11",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,11",,Travel Comp By Pay Period,0 
+0 ,,,"2018,11",,Military,
+0 ,0 ,,"2018,11",,REST ANN LV HRS,0 
+72 ,119.75 ,,"2018,12",0 ,Annual,27.75 
+48 ,358.75 ,,"2018,12",,Sick,3.50 
+0 ,0 ,,"2018,12",,Compensatory,0 
+1.25 ,11.50 ,,"2018,12",,Credit Hours By Pay Period,0.75 
+0 ,0 ,,"2018,12",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,12",,Travel Comp By Pay Period,0 
+0 ,,,"2018,12",,Military,
+0 ,0 ,,"2018,12",,REST ANN LV HRS,0 
+78 ,80.50 ,,"2018,13",0 ,Annual,73 
+52 ,356.50 ,,"2018,13",,Sick,9.75 
+0 ,0 ,,"2018,13",,Compensatory,0 
+0 ,0 ,,"2018,13",,Credit Hours By Pay Period,11.50 
+0 ,0 ,,"2018,13",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,13",,Travel Comp By Pay Period,0 
+0 ,,,"2018,13",,Military,
+0 ,0 ,,"2018,13",,REST ANN LV HRS,0 
+84 ,86.50 ,,"2018,14",0 ,Annual,73 
+56 ,360.50 ,,"2018,14",,Sick,9.75 
+0 ,0 ,,"2018,14",,Compensatory,0 
+0 ,0 ,,"2018,14",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,14",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,14",,Travel Comp By Pay Period,0 
+0 ,,,"2018,14",,Military,
+0 ,0 ,,"2018,14",,REST ANN LV HRS,0 
+90 ,92.50 ,,"2018,15",0 ,Annual,73 
+60 ,364.50 ,,"2018,15",,Sick,9.75 
+0 ,0 ,,"2018,15",,Compensatory,0 
+0 ,0 ,,"2018,15",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,15",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,15",,Travel Comp By Pay Period,0 
+0 ,,,"2018,15",,Military,
+0 ,0 ,,"2018,15",,REST ANN LV HRS,0 
+96 ,74.50 ,,"2018,16",0 ,Annual,97 
+64 ,368.50 ,,"2018,16",,Sick,9.75 
+0 ,0 ,,"2018,16",,Compensatory,0 
+0 ,0 ,,"2018,16",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,16",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,16",,Travel Comp By Pay Period,0 
+0 ,,,"2018,16",,Military,
+0 ,0 ,,"2018,16",,REST ANN LV HRS,0 
+102 ,80.50 ,,"2018,17",0 ,Annual,97 
+68 ,372.50 ,,"2018,17",,Sick,9.75 
+0 ,0 ,,"2018,17",,Compensatory,0 
+0 ,0 ,,"2018,17",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,17",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,17",,Travel Comp By Pay Period,0 
+0 ,,,"2018,17",,Military,
+0 ,0 ,,"2018,17",,REST ANN LV HRS,0 
+108 ,86.50 ,,"2018,18",0 ,Annual,97 
+72 ,376.50 ,,"2018,18",,Sick,9.75 
+0 ,0 ,,"2018,18",,Compensatory,0 
+0.25 ,0.25 ,,"2018,18",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,18",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,18",,Travel Comp By Pay Period,0 
+0 ,,,"2018,18",,Military,
+0 ,0 ,,"2018,18",,REST ANN LV HRS,0 
+114 ,92.50 ,,"2018,19",0 ,Annual,97 
+76 ,380.50 ,,"2018,19",,Sick,9.75 
+0 ,0 ,,"2018,19",,Compensatory,0 
+1.75 ,2 ,,"2018,19",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,19",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,19",,Travel Comp By Pay Period,0 
+0 ,,,"2018,19",,Military,
+0 ,0 ,,"2018,19",,REST ANN LV HRS,0 
+120 ,98.50 ,,"2018,20",0 ,Annual,97 
+80 ,384.50 ,,"2018,20",,Sick,9.75 
+0 ,0 ,,"2018,20",,Compensatory,0 
+2.25 ,4.25 ,,"2018,20",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,20",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,20",,Travel Comp By Pay Period,0 
+0 ,,,"2018,20",,Military,
+0 ,0 ,,"2018,20",,REST ANN LV HRS,0 
+126 ,104.50 ,,"2018,21",0 ,Annual,97 
+84 ,388.50 ,,"2018,21",,Sick,9.75 
+0 ,0 ,,"2018,21",,Compensatory,0 
+8.75 ,13 ,,"2018,21",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,21",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,21",,Travel Comp By Pay Period,0 
+0 ,,,"2018,21",,Military,
+0 ,0 ,,"2018,21",,REST ANN LV HRS,0 
+132 ,94.50 ,,"2018,22",0 ,Annual,113 
+88 ,392.50 ,,"2018,22",,Sick,9.75 
+0 ,0 ,,"2018,22",,Compensatory,0 
+1.75 ,14.75 ,,"2018,22",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,22",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,22",,Travel Comp By Pay Period,0 
+0 ,,,"2018,22",,Military,
+0 ,0 ,,"2018,22",,REST ANN LV HRS,0 
+138 ,100.50 ,,"2018,23",0 ,Annual,113 
+92 ,396.50 ,,"2018,23",,Sick,9.75 
+0 ,0 ,,"2018,23",,Compensatory,0 
+0 ,9 ,,"2018,23",,Credit Hours By Pay Period,5.75 
+0 ,0 ,,"2018,23",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,23",,Travel Comp By Pay Period,0 
+0 ,,,"2018,23",,Military,
+0 ,0 ,,"2018,23",,REST ANN LV HRS,0 
+144 ,106.50 ,,"2018,24",0 ,Annual,113 
+96 ,400.50 ,,"2018,24",,Sick,9.75 
+0 ,0 ,,"2018,24",,Compensatory,0 
+0.50 ,9.50 ,,"2018,24",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,24",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,24",,Travel Comp By Pay Period,0 
+0 ,,,"2018,24",,Military,
+0 ,0 ,,"2018,24",,REST ANN LV HRS,0 
+154 ,76.50 ,,"2018,25",0 ,Annual,153 
+100 ,390.50 ,,"2018,25",,Sick,23.75 
+0 ,0 ,,"2018,25",,Compensatory,0 
+0 ,9.50 ,,"2018,25",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,25",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,25",,Travel Comp By Pay Period,0 
+0 ,,,"2018,25",,Military,
+0 ,0 ,,"2018,25",,REST ANN LV HRS,0 
+160 ,82.50 ,,"2018,26",0 ,Annual,153 
+104 ,394.50 ,,"2018,26",,Sick,23.75 
+0 ,0 ,,"2018,26",,Compensatory,0 
+0 ,9.50 ,,"2018,26",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2018,26",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2018,26",,Travel Comp By Pay Period,0 
+0 ,,,"2018,26",,Military,
+0 ,0 ,,"2018,26",,REST ANN LV HRS,0 
+6 ,88.50 ,,"2019,01",2.50 ,Annual,0 
+4 ,398.50 ,,"2019,01",,Sick,0 
+0 ,0 ,,"2019,01",,Compensatory,0 
+6.75 ,16.25 ,,"2019,01",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2019,01",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,01",,Travel Comp By Pay Period,0 
+0 ,,,"2019,01",,Military,
+0 ,0 ,,"2019,01",,REST ANN LV HRS,0 
+12 ,94.50 ,,"2019,02",2.50 ,Annual,0 
+8 ,402.50 ,,"2019,02",,Sick,0 
+0 ,0 ,,"2019,02",,Compensatory,0 
+2.25 ,18.50 ,,"2019,02",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2019,02",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,02",,Travel Comp By Pay Period,0 
+0 ,,,"2019,02",,Military,
+0 ,0 ,,"2019,02",,REST ANN LV HRS,0 
+18 ,100.50 ,,"2019,03",2.50 ,Annual,0 
+12 ,406.50 ,,"2019,03",,Sick,0 
+0 ,0 ,,"2019,03",,Compensatory,0 
+0 ,16 ,,"2019,03",,Credit Hours By Pay Period,2.50 
+0 ,0 ,,"2019,03",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,03",,Travel Comp By Pay Period,0 
+0 ,,,"2019,03",,Military,
+0 ,0 ,,"2019,03",,REST ANN LV HRS,0 
+24 ,106.50 ,,"2019,04",2.50 ,Annual,0 
+16 ,410.50 ,,"2019,04",,Sick,0 
+0 ,0 ,,"2019,04",,Compensatory,0 
+1 ,17 ,,"2019,04",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2019,04",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,04",,Travel Comp By Pay Period,0 
+0 ,,,"2019,04",,Military,
+0 ,0 ,,"2019,04",,REST ANN LV HRS,0 
+30 ,112.50 ,,"2019,05",2.50 ,Annual,0 
+20 ,414.50 ,,"2019,05",,Sick,0 
+0 ,0 ,,"2019,05",,Compensatory,0 
+0 ,17 ,,"2019,05",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2019,05",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,05",,Travel Comp By Pay Period,0 
+0 ,,,"2019,05",,Military,
+0 ,0 ,,"2019,05",,REST ANN LV HRS,0 
+36 ,118.50 ,,"2019,06",2.50 ,Annual,0 
+24 ,418.50 ,,"2019,06",,Sick,0 
+0 ,0 ,,"2019,06",,Compensatory,0 
+0 ,11.50 ,,"2019,06",,Credit Hours By Pay Period,5.50 
+0 ,0 ,,"2019,06",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,06",,Travel Comp By Pay Period,0 
+0 ,,,"2019,06",,Military,
+0 ,0 ,,"2019,06",,REST ANN LV HRS,0 
+42 ,124.50 ,,"2019,07",2.50 ,Annual,0 
+28 ,422.50 ,,"2019,07",,Sick,0 
+0 ,0 ,,"2019,07",,Compensatory,0 
+0 ,9 ,,"2019,07",,Credit Hours By Pay Period,2.50 
+0 ,0 ,,"2019,07",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,07",,Travel Comp By Pay Period,0 
+0 ,,,"2019,07",,Military,
+0 ,0 ,,"2019,07",,REST ANN LV HRS,0 
+48 ,130.50 ,,"2019,08",2.50 ,Annual,0 
+32 ,426.50 ,,"2019,08",,Sick,0 
+0 ,0 ,,"2019,08",,Compensatory,0 
+0.50 ,9.50 ,,"2019,08",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2019,08",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,08",,Travel Comp By Pay Period,0 
+0 ,,,"2019,08",,Military,
+0 ,0 ,,"2019,08",,REST ANN LV HRS,0 
+54 ,136.50 ,,"2019,09",2.50 ,Annual,0 
+36 ,430.50 ,,"2019,09",,Sick,0 
+0 ,0 ,,"2019,09",,Compensatory,0 
+0.75 ,10.25 ,,"2019,09",,Credit Hours By Pay Period,0 
+0 ,0 ,,"2019,09",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,09",,Travel Comp By Pay Period,0 
+0 ,,,"2019,09",,Military,
+0 ,0 ,,"2019,09",,REST ANN LV HRS,0 
+60 ,134.50 ,,"2019,10",0 ,Annual,8 
+40 ,434.50 ,,"2019,10",,Sick,0 
+0 ,0 ,,"2019,10",,Compensatory,0 
+0.50 ,8.75 ,,"2019,10",,Credit Hours By Pay Period,2 
+0 ,0 ,,"2019,10",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,10",,Travel Comp By Pay Period,0 
+0 ,,,"2019,10",,Military,
+0 ,0 ,,"2019,10",,REST ANN LV HRS,0 
+66 ,140.50 ,,"2019,11",0 ,Annual,8 
+44 ,438.50 ,,"2019,11",,Sick,0 
+0 ,0 ,,"2019,11",,Compensatory,0 
+0 ,2.25 ,,"2019,11",,Credit Hours By Pay Period,6.50 
+0 ,0 ,,"2019,11",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,11",,Travel Comp By Pay Period,0 
+0 ,,,"2019,11",,Military,
+0 ,0 ,,"2019,11",,REST ANN LV HRS,0 
+72 ,138.50 ,,"2019,12",0 ,Annual,16 
+48 ,442.50 ,,"2019,12",,Sick,0 
+0 ,0 ,,"2019,12",,Compensatory,0 
+0 ,0.25 ,,"2019,12",,Credit Hours By Pay Period,2 
+0 ,0 ,,"2019,12",,Religious Comp By Pay Period,0 
+0 ,0 ,,"2019,12",,Travel Comp By Pay Period,0 
+0 ,,,"2019,12",,Military,
+0 ,0 ,,"2019,12",,REST ANN LV HRS,0 
